@@ -1,0 +1,15 @@
+/* DiscoverWonders.css */
+.section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .section ul li {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .section ul li strong {
+    color: #ff6f61;
+  }
+  
